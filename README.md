@@ -1,7 +1,9 @@
 ## Table of Contents
 
+## CONTENTS
+
 ## ONE-LINERS // SCRIPTS // TOOLS // REPOS // CHEATSHEETS // REFERENCE //
-* [AIO Pentest Book](https://book.hacktricks.xyz/generic-methodologies-and-resources/pentesting-network)
+* [AIO Pentest Book](https://book.hacktricks.xyz/generic-methodologiesand-resources/pentesting-network)
 * [PTES Technical Guidelines](http://www.pentest-standard.org/index.php/PTES_Technical_Guidelines)
 * [Pentesting Cheatsheet](https://hausec.com/pentesting-cheatsheet/)
 * [ethical/pentest/osint Docs](https://lira.epac.to/DOCS-TECH/)
