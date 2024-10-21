@@ -41,7 +41,8 @@
 * [fake person generator](https://www.fakepersongenerator.com/Inde
 
 * [License plate query](https://www.regcheck.org.uk/api/reg.asmx?op=CheckCanada)
- - [General Search](#-general-search)
+* 
+ ## [General Search](#-general-search)
  - [Main National Search Engines](#-main-national-search-engines)
  - [Meta Search](#-meta-search)
  - [Specialty Search Engines](#-specialty-search-engines)
